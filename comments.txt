@@ -1,0 +1,11 @@
+int main()
+{
+   /* multiline
+comments /*
+   printf("Hello world");//comment
+   return 0;
+/* multiline
+comments /*
+//hello world
+//new comment
+}
